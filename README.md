@@ -1,4 +1,5 @@
 # MergeConflict
+LOCAL
 Exercice quete git 5
 
 Ligne1
